@@ -19,3 +19,5 @@ runaway.py: example of playing a game. Takes a screen shot of the screen, analys
 kpsmeter.py: measures the keyboard clicks per second. Was used when playing Flash Flash Revolution.
 
 practiceDisplay.py: practicing pygame by moving around an object in a screen.
+
+timersGui.py: A bunch of timers if you click on them. They also make a noise. The names for the timers were for something in RunesScape that took 12 minutes. I made this for a friend.
