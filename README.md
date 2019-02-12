@@ -17,3 +17,5 @@ livestream.py: takes a picture with a camera and updates a frame so that it look
 runaway.py: example of playing a game. Takes a screen shot of the screen, analyses some pixel values and then solves the puzzle.
 
 kpsmeter.py: measures the keyboard clicks per second. Was used when playing Flash Flash Revolution.
+
+practiceDisplay.py: practicing pygame by moving around an object in a screen.
