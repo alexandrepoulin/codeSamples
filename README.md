@@ -15,3 +15,5 @@ keyLog.py: useful for knowing how to handle keyboard events and how to record th
 livestream.py: takes a picture with a camera and updates a frame so that it looks like a video.
 
 runaway.py: example of playing a game. Takes a screen shot of the screen, analyses some pixel values and then solves the puzzle.
+
+kpsmeter.py: measures the keyboard clicks per second. Was used when playing Flash Flash Revolution.
